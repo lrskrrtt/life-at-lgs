@@ -7,11 +7,8 @@ This is a website designed for the LGS (Lahore Grammar School) community. It sho
 ## Table of Contents
 
 - [Overview](#overview)
-- [Installation](#installation)
 - [Usage](#usage)
-- [CSS Customization](#css-customization)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
